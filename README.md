@@ -1,5 +1,5 @@
 ## Trabalho senac Software Livre JT
 
-<img src="Capturaa1.jpg">
-<img src="Captura2.jpg">
+<img src="Capturaa1.JPG">
+<img src="Captura2.JPG">
 
