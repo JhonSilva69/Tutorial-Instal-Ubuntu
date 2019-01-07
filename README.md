@@ -1,4 +1,5 @@
-## Trabalho senac Software Livre JT
+## Trabalho senac Software Livre Instalação Ubuntu Linux
+Olá, começaremos agora um breve passo a passo sobre a instalação e configuração do Ubuntu 18.04.1 LTS
 
 <img src="Capturaa1.JPG">
 <img src="Captura2.JPG">
