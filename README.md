@@ -14,4 +14,4 @@ Após reiniciar sua máquina aparecerá a tela para você selecionar qual perfil
 <img src="Capturar10.JPG">
 E finalmente... Está concluida a instalação.
 <img src="Capturar11.JPG">
-Proto, sua instalação e configuração do Linux Ubuntu está finalizada. Agora é só utilizar.
+Pronto, sua instalação e configuração do Linux Ubuntu está finalizada. Agora é só utilizar.
