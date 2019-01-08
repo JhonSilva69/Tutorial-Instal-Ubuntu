@@ -15,9 +15,23 @@ Instalar Ubuntu: inicia diretamente a instalação. Mesmo que o usuário escolha
 ## Clique em "Continuar";
 
 <img src="Captura2.JPG">
+
+Aqui você pode optar por "instalação normal" ou "instalação mínima. Se você quer uma instalação rápida desaive a opção "Baixar atualizações equanto instala o ubuntu", caso não:
+## Clique em Continuar;
+
 <img src="Capturar3.JPG">
+
+## Clique em "Continuar";
+
 <img src="Capturar4.JPG">
+
+## Clique em "Continuar";
+
 <img src="Capturar5.JPG">
+
+Caso não esteja localizado em sua região: selecione. E em seguida continuar.
+## Clique em "Continuar";
+
 <img src="Capturar6.JPG">
 <img src="Capturar7.JPG">
 <img src="Capturar8.JPG">
