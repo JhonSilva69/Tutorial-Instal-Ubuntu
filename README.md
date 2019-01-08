@@ -45,8 +45,13 @@ Tela enquanto instala;
 O sistema pede para reiniciar, clique em "reiniciar agora";
 
 <img src="Capturar9.JPG">
+
 Após reiniciar sua máquina aparecerá a tela para você selecionar qual perfil utilizar:
+
 <img src="Capturar10.JPG">
+
 E finalmente... Está concluida a instalação.
+
 <img src="Capturar11.JPG">
+
 Pronto, sua instalação e configuração do Linux Ubuntu está finalizada. Agora é só utilizar.
