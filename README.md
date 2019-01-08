@@ -8,9 +8,12 @@ Depois de gravar o Ubuntu em um DVD, reinicie a máquina e escolha a opção de 
 Experimentar Ubuntu: roda o Ubuntu diretamente do DVD, ideal para quem quer experimentar o sistema sem realizar nenhuma modificação na máquina. A experiência é relativamente ruim, afinal há uma enorme perda de desempenho já que a velocidade do DVD é devagar, mesmo se comparado a um disco rígido convencional;
 Instalar Ubuntu: inicia diretamente a instalação. Mesmo que o usuário escolha "Try Ubuntu", é possível iniciar a instalação por meio de um atalho no desktop.
 
-Primeiro, escolha a língua desejada (Português do Brasil) na lista do lado esquerdo e clique em “Instalar o Ubuntu”.
+## Primeiro, escolha a língua desejada (Português do Brasil) na lista do lado esquerdo e clique em “Instalar o Ubuntu”;
 
 <img src="Capturaa1.JPG">
+
+## Clique em "Continuar";
+
 <img src="Captura2.JPG">
 <img src="Capturar3.JPG">
 <img src="Capturar4.JPG">
