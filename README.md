@@ -33,8 +33,17 @@ Caso não esteja localizado em sua região: selecione. E em seguida continuar.
 ## Clique em "Continuar";
 
 <img src="Capturar6.JPG">
+
+Insira as informações para criação de um perfil para seu Sistema Operacional Linux, e em seguida clique em continuar;
+
 <img src="Capturar7.JPG">
+
+Tela enquanto instala;
+
 <img src="Capturar8.JPG">
+
+O sistema pede para reiniciar, clique em "reiniciar agora";
+
 <img src="Capturar9.JPG">
 Após reiniciar sua máquina aparecerá a tela para você selecionar qual perfil utilizar:
 <img src="Capturar10.JPG">
