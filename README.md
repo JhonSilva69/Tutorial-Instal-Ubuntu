@@ -1,3 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> Meu Site </title>
+</head>
+
+<body>
+Meu Site
+
+<ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="sobre.html">Sobre</a></li>
+    <li><a href="contato.html">Contato</a></li>
+</ul>
+
+</body>
+</html>
+
+
 ## Trabalho senac Software Livre Instalação Ubuntu Linux
 Olá, começaremos agora um breve passo a passo sobre a instalação e configuração do Ubuntu 18.04.1 LTS.
 
